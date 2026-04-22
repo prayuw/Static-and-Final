@@ -5,7 +5,7 @@ class Kendaraan {
     }
 }
  class Mobil extends Kendaraan {
-    
+
     // ERROR jika override
     public function mesin() {
         echo "Mesin mobil";
