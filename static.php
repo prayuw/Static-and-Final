@@ -4,7 +4,7 @@ class Counter {
     public static $jumlah = 0;
 
     public function tambah() {
-        self::$jumlah++;
+        self::$jumlah++; 
     }
 }
 
